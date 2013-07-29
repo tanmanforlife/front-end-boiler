@@ -1,4 +1,4 @@
-front-end-boiler
-================
+hdboilerplate
+=============
 
-Front End Boilerplate to make web development easier
+A boilerplate to make front end dev easier and to introduce a more modular way of organizing CSS

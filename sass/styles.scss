@@ -1,0 +1,29 @@
+@import "site_name/intro";
+
+// Third Party
+// @import "compass/utilities";
+@import "compass/css3";
+@import "foundation/app";
+
+
+// Basic Configuration
+@import "site_name/vars";
+@import "site_name/mixins";
+@import "site_name/fonts";
+@import "site_name/data-assets";
+@import "site_name/animate";
+
+
+// Global 
+@import "site_name/base";              // Base Styles
+@import "site_name/layout";            // Global layout and structural rules
+@import "site_name/modules";           // Reusable modules: Buttons, nav flyouts, pagination etc.
+@import "site_name/state";             // Styling that can be toggled on or off via JavaScript
+
+
+// Content Specific Pages/Tempalates
+//@import "site_name/section/section_name";
+
+
+// Utility Helpers
+@import "site_name/print";
